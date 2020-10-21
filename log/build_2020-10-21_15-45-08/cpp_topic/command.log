@@ -1,0 +1,6 @@
+Invoking command in '/home/diogoesa/ros2_ws1/build/cpp_topic': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/diogoesa/ros2_ws1/src/cpp_topic -DCMAKE_INSTALL_PREFIX=/home/diogoesa/ros2_ws1/install/cpp_topic
+Invoked command in '/home/diogoesa/ros2_ws1/build/cpp_topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/diogoesa/ros2_ws1/src/cpp_topic -DCMAKE_INSTALL_PREFIX=/home/diogoesa/ros2_ws1/install/cpp_topic
+Invoking command in '/home/diogoesa/ros2_ws1/build/cpp_topic': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/diogoesa/ros2_ws1/build/cpp_topic -- -j1 -l1
+Invoked command in '/home/diogoesa/ros2_ws1/build/cpp_topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/diogoesa/ros2_ws1/build/cpp_topic -- -j1 -l1
+Invoking command in '/home/diogoesa/ros2_ws1/build/cpp_topic': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/diogoesa/ros2_ws1/build/cpp_topic
+Invoked command in '/home/diogoesa/ros2_ws1/build/cpp_topic' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/diogoesa/ros2_ws1/build/cpp_topic

@@ -1,0 +1,11 @@
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/install/local.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/install.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/list_install_components.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/rebuild_cache.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/edit_cache.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/test.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/cpp_sub_spiral.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/install/strip.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/cpp_pub_spiral.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/cpp_topic_uninstall.dir
+/home/diogoesa/ros2_ws1/build/cpp_topic/CMakeFiles/uninstall.dir
