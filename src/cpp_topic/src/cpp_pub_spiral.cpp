@@ -20,7 +20,7 @@ class MinimalPublisher : public rclcpp::Node
     void publish_message()
     {
       auto message = geometry_msgs::msg::Twist();
-      message.linear.x = 4.0; 
+      message.linear.x = 3.0; 
       message.angular.z = 2.0 + i;
       RCLCPP_INFO(this->get_logger(), "Sending - Linear Velocity : '%f', Angular Velocity : '%f'", message.linear.x, message.angular.z);
       publisher_->publish(message);
